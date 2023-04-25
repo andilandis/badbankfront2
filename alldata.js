@@ -75,7 +75,7 @@ function AllDataForm(props){
 
   return (
     <Card
-bgcolor="info"
+bgcolor="dark"
 txtcolor="dark"
 header="All Data in Store"
 body={
