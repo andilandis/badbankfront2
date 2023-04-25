@@ -108,7 +108,7 @@ function CreateAccount() {
         ) : (
           <>
             <h5>Account Succefully Created!</h5>
-            <button type="submit" className="btn btn-primary" onClick={clearForm}>
+            <button type="submit" className="btn btn-info" onClick={clearForm}>
               Create Another Account
             </button>
             <br />
